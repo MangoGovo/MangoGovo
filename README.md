@@ -21,7 +21,7 @@
 ### 💻 Workspaces 
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_8845HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/Nvidia-RTX_4060_Laptop-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/Nvidia-RTX_4070_Laptop-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=vscodium&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
