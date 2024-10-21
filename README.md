@@ -8,8 +8,8 @@
 
 ### 🧑‍💻 Used Languages 
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-378BBA?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge)
+
 ![Java](https://img.shields.io/badge/Java-ae784d?style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge)
 
